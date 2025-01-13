@@ -1,0 +1,24 @@
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 55vh;
+    h2 {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+}
+
+.redes {
+    display: flex; 
+    flex-direction: row; 
+    gap: 30px; 
+    font-size: larger;
+}
+
+.redes-item {
+    color: var(--color-text);
+    font-size: 40px; 
+    margin: 0 15px; 
+    text-decoration: none; 
+}

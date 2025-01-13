@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+a:visited {
+    color: var(--color-text);
+}
+
+.footer {
+    text-align: center;
+    color: var(--color-text-light);
+    font-size: x-small;
+}

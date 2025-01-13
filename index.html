@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distribuidora Jacarandá</title>
+    <link rel="stylesheet" href="style/index_style/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="menu">
+            <a href="#home">
+                <img src="./assets/logo.png" alt="Logo" class="logo-img">
+            </a>
+            <div class="menu-buttons">
+                <a href="#home" class="menu-item">Inicio</a>
+                <a href="#nosotros" class="menu-item">Nosotros</a>
+                <a href="tienda.html" class="menu-item">Catálogo Online</a>
+                <a href="#contacto" class="menu-item">Contacto</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="home" id="home">
+        <div class="home-info">
+            <p> Conocé nuestros productos </p>
+            <a href="tienda.html" class="tienda-button">Catálogo Online</a>
+        </div>
+
+        <div class="carrusel-container">
+            <div class="carrusel">
+              <img src="./assets/aromatizador.jpg" alt="Imagen 1" class="carrusel-item">
+              <img src="./assets/cremas.jpg" alt="Imagen 2" class="carrusel-item">
+              <img src="./assets/taza_glitter.jpg" alt="Imagen 3" class="carrusel-item">
+              <img src="./assets/labial_infantil.jpg" alt="Imagen 4" class="carrusel-item">
+              <img src="./assets/burbujero_infantil.jpg" alt="Imagen 5" class="carrusel-item">
+              <img src="./assets/vaso_fernet_updr.jpg" alt="Imagen 6" class="carrusel-item">
+
+            </div>
+            <button class="prev" onclick="moverCarrusel(-1)">&#10094;</button>
+            <button class="next" onclick="moverCarrusel(1)">&#10095;</button>
+        </div>
+
+        <script src="script.js"></script>
+    </section>
+
+    <section class="nosotros" id="nosotros">
+        <img src= "./assets/logo.png">
+        <div class="nosotros-info"> 
+        <h2>Sobre nosotros</h2>
+        <p>Somos una distribuidora mayorista ubicada en Buenos Aires, comprometida en ofrecer productos de alta calidad gracias a nuestra alianza con un importador directo ubicado en Córdoba. Nos especializamos en ventas por bulto cerrado, garantizando precios competitivos y convenientes para nuestros clientes. Además, ofrecemos un servicio diferencial con envíos, asegurando rapidez y eficiencia en la entrega de cada pedido.</p>
+        </div>
+    </section>
+
+    <section class="contacto" id="contacto">
+        <h2>Contactanos!</h2>
+        <div class="redes">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSefhszI2_bEKQPFGzYZ_1qMB1-aIJ3BPP2zo34nBOS1s0GdNg/viewform?usp=dialog" class="redes-item" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-envelope"></i> 
+            </a>
+
+            <a href="https://www.instagram.com/jacaranda.distri/" class="redes-item" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-instagram"></i> 
+            </a>
+            
+            <a href="https://wa.link/be1v6k" class="redes-item" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-whatsapp"></i> 
+            </a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>Diseño y desarrollo web por Camila Figueroa Cillo.</p>
+    </footer>
+
+    
+</body>
+</html>

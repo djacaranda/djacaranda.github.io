@@ -1,0 +1,29 @@
+.home {
+    background-color: var(--color-secondary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 0px 0px; 
+}
+
+.home-info {
+    max-width: 40%; 
+    padding: 20px;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+
+    p {
+        padding: 15px;
+    }
+}
+
+.tienda-button {
+    padding: 10px;
+    border: 2px solid var(--color-text);
+    border-radius: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}

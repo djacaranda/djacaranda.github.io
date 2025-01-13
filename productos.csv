@@ -1,0 +1,76 @@
+Ahuyentador 60cc                   ;  900 ;200 ;assets/ahuyentador_naranja.jpg     ;cosm_alt       ;10041
+Ahuyentador extra duración 60cc    ; 1000 ;200 ;assets/ahuyentador_verde.jpg       ;cosm_alt       ;10102
+Pote emulsión surtido 250cc        ; 1000 ; 92 ;assets/cremas.jpg                  ;cosm_alt       ;  765
+Pote emulsión CR32 AXTR 250cc      ;  850 ; 92 ;assets/emulsion_cr32.jpg           ;cosm_alt       ;10093
+Jabón CR14 90gr                    ;  700 ;192 ;assets/jabon_cr14.jpg              ;cosm_alt       ; 4502
+Agua de tocador 120cc              ;  900 ;108 ;assets/agua_tocador.jpg            ;cosm_inf       ; 2999
+Esmaltes                           ;  900 ;351 ;assets/esmaltes.jpg                ;sstilo         ; 3983
+Fragancias alternativas            ; 1500 ;108 ;assets/perfumes.jpg                ;sstilo         ; 4481
+Limpiador Uñas 120cc               ; 1650 ; 72 ;assets/quitaesmalte.jpg            ;sstilo         ; 1472
+Desinfectante en gel 250cc c/bomba ; 1700 ; 42 ;assets/alcohol_250.jpg             ;sstilo         ; 4477
+Desinfectante en gel 60cc T flip   ;  600 ;384 ;assets/alcohol_60.jpg              ;sstilo         ; 4445
+Gel pote 480gr                     ; 1300 ; 54 ;assets/gel.jpg                     ;sstilo         ;  310
+Aromatizador textil                ; 1700 ; 48 ;assets/aromatizador.jpg            ;sstilo         ; 4468
+Talco infantil                     ;  700 ;126 ;assets/talco.jpg                   ;cosm_inf       ; 4443
+CR01 Emulsión AT3 185gr            ;  750 ;120 ;assets/emulsion_at3.jpg            ;cosm_alt       ;  427
+Crema en lata 55cc                 ; 1100 ;330 ;assets/crema_lata.jpg              ;cosm_alt       ; 4464
+Blister labial infantil x18        ;11000 ; 25 ;assets/blister_labial_infantil.jpg ;cosm_inf       ; 4541
+Kit shampoo-enjuague               ; 2100 ; 46 ;assets/kit_baño.jpg                ;cosm_inf       ; 1427
+Labial infantil                    ;  700 ;600 ;assets/labial_infantil.jpg         ;cosm_inf       ; 4004
+Maquillaje artístico infantil      ; 1000 ;450 ;assets/maquillaje_infantil.jpg     ;cosm_inf       ; 4447
+Blister labial x18                 ;11000 ; 25 ;assets/blister_labial_sstilo.jpg   ;sstilo         ; 4485
+Labial                             ;  700 ;600 ;assets/labial_sstilo.jpg           ;sstilo         ; 4441
+Manteca de cacao                   ;  700 ;600 ;assets/manteca_cacao_sstilo.jpg    ;sstilo         ; 2536
+Vaso térmico 'Un poco de ruido'    ; 1800 ; 80 ;assets/vaso_updr.jpg               ;vasos_termicos ;10109
+Vaso térmico 'Mi villano favorito' ; 1800 ; 80 ;assets/vaso_mvf.jpg                ;vasos_termicos ;10077
+Taza térmica 'Glitter'             ; 1800 ; 80 ;assets/taza_glitter.jpg            ;vasos_termicos ;10026
+Vaso térmico 'Glitter'             ; 1800 ; 80 ;assets/vaso_glitter.jpg            ;vasos_termicos ;10050
+Taza térmica 'Gel y brillo'        ; 1800 ; 80 ;assets/taza_gel_brillo.jpg         ;vasos_termicos ; 4545
+Vaso térmico 'Gel y brilo'         ; 1800 ; 80 ;assets/vaso_gel_brillo.jpg         ;vasos_termicos ;10049
+Burbujero infantil                 ;  500 ;192 ;assets/burbujero_infantil.jpg      ;jugueteria     ; 2209
+Kit de belleza pequeña princesa    ; 2150 ;108 ;assets/kit_belleza_princesa.jpg    ;jugueteria     ; 4450
+Kit de belleza pequeña pupina      ; 2150 ;108 ;assets/kit_belleza_pupina.jpg      ;jugueteria     ; 4525
+Kit de belleza pequeña manicura    ; 2500 ;108 ;assets/kit_belleza_manicura.jpg    ;jugueteria     ;10016
+Kit de belleza pequeña reina       ; 2500 ;136 ;assets/kit_belleza_reina.jpg       ;jugueteria     ; 4508
+Kit pequeña maquilladora           ;  400 ; 28 ;assets/kit_maquilladora.jpg        ;jugueteria     ; 4509
+Soga de saltar infantil            ; 1900 ; 77 ;assets/soga_infantil.jpg           ;jugueteria     ;10059
+Vaso decorado MCS                  ;  800 ;450 ;assets/vaso_decorado.jpg           ;bazar          ; 4482
+Vaso fernet ECO 1lt                ; 1500 ; 75 ;assets/vaso_fernet.jpg             ;bazar          ;10040
+Vaso fernet 'Un poco de ruido'     ; 3000 ; 72 ;assets/vaso_fernet_updr.jpg        ;bazar          ;10112
+Vaso infantil chico 'Chupito'      ;  800 ;405 ;assets/vaso_chupito.jpg            ;bazar          ; 4528
+Vaso infantil sorbete loco         ;  900 ;450 ;assets/vaso_sorbete_loco.jpg       ;bazar          ; 2674
+Vaso infantil tapa esfera          ;  900 ;450 ;assets/vaso_infantil_esfera.jpg    ;bazar          ; 4484
+Vaso infantil tapa plana           ;  900 ;450 ;assets/vaso_infantil_plana.jpg     ;bazar          ; 4537
+Vaso liso eco pastel               ;  500 ;450 ;assets/vaso_pastel.jpg             ;bazar          ; 4523
+Vaso liso pastel tapa esfera       ;  800 ;450 ;assets/vaso_pastel_esfera.jpg      ;bazar          ; 4543
+Vaso liso pastel tapa plana        ;  800 ;450 ;assets/vaso_pastel_plano.jpg       ;bazar          ; 4542
+Taza térmica 3D 'Glitter'          ; 2000 ; 80 ;assets/taza_glitter_3d.jpg         ;vasos_termicos ;10027
+Vaso térmico 3D 'Glitter'          ; 2000 ; 80 ;assets/vaso_glitter_3d.jpg         ;vasos_termicos ;10048
+Vaso térmico 3D 'Barbie'           ; 2000 ; 80 ;assets/vaso_barbie_3d.jpg          ;vasos_termicos ;10020
+Taza térmica 'Barbie'              ; 2000 ; 80 ;assets/taza_barbie.jpg             ;vasos_termicos ;10018
+Taza térmica 3D 'Barbie'           ; 2000 ; 80 ;assets/taza_barbie_3d.jpg          ;vasos_termicos ;10064
+Vaso térmico 'Barbie'              ; 2000 ; 80 ;assets/vaso_barbie.jpg             ;vasos_termicos ;10014
+Vaso térmico 'Barbie Glitter'      ; 2000 ; 80 ;assets/vaso_barbie_glitter.jpg     ;vasos_termicos ;10067
+Taza térmica                       ; 2000 ; 80 ;assets/taza_cafe.jpg               ;vasos_termicos ;10060
+Vaso térmico 'Minions'             ; 1800 ; 80 ;assets/vaso_minions.jpg            ;vasos_termicos ;10081
+Vaso térmico c/ luz 'Comic'        ; 3800 ; 40 ;assets/vaso_luz_comic.jpg          ;vasos_termicos ;10114
+Vaso térmico c/ luz 'Animals'      ; 3800 ; 40 ;assets/vaso_animales_luz.jpg       ;vasos_termicos ;10129
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

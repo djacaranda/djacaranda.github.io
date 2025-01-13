@@ -1,0 +1,14 @@
+.inicio {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row; /* Cambia de columna a fila */
+    gap: 40px;
+    align-items: flex-start; /* Centra verticalmente */
+}
+
+.tienda {
+    margin-top: 110px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}

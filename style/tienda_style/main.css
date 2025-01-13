@@ -1,0 +1,12 @@
+@import url("base/default.css");
+@import url("base/typography.css");
+@import url("base/variables.css");
+
+@import url("components/menu.css");
+@import url("components/card.css");
+@import url("components/filter.css");
+@import url("components/sort-container.css");
+@import url("components/product-container.css");
+
+
+@import url("pages/inicio.css");

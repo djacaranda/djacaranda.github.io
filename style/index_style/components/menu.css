@@ -1,0 +1,39 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+.menu-buttons {
+    display: flex; 
+    flex-direction: row; 
+    gap: 30px; 
+    font-size: larger;
+}
+
+.logo-img {
+    height: 80px;
+}
+
+.menu-item {
+    text-decoration: none;
+    cursor: pointer;
+    color: var(--color-text);
+    transition: text-shadow 0.3 ease;
+}
+
+.menu-item:hover {
+    text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--bg-color);
+    z-index: 1000; 
+    box-shadow: 0px 2px 28px -6px rgba(0,0,0,0.44);
+}
